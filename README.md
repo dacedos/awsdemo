@@ -13,13 +13,13 @@
 ## Benefits of serverless computing?
 
  - No server management
-	There is no need to provision or maintain any servers. There is no software or runtime to install, maintain, or administer. 
+	. There is no need to provision or maintain any servers. There is no software or runtime to install, maintain, or administer. 
 
  - Flexible scaling
-	Your application can be scaled automatically or by adjusting its capacity through toggling the units of consumption (e.g. throughput, memory) rather than units of individual servers.
+	. Your application can be scaled automatically or by adjusting its capacity through toggling the units of consumption (e.g. throughput, memory) rather than units of individual servers.
 
  - Automated high availabilty
-	Serverless applications have built-in availability and fault tolerance. You don't need to architect for these capabilities since the services running the application provide them by default.
+	. Serverless applications have built-in availability and fault tolerance. You don't need to architect for these capabilities since the services running the application provide them by default.
 
 
 ## SAM CLI
@@ -32,12 +32,17 @@
 - Require docker
 	https://docs.docker.com/docker-for-mac/install/
 - Install with pip
-	pip install aws-sam-cli
+	```pip install aws-sam-cli```
 
 ### AWS Credentials for Demo
 
-```
-```
+Login: https://403159396211.signin.aws.amazon.com/console
+Username: sngular.demo
+Password: sngularTest123
+
+Client-key: AKIAJNWXFFMGDMWUIPHQ
+Client-Secret: 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
+
 
 ## References
 
