@@ -36,12 +36,12 @@
 
 ### AWS Credentials for Demo
 
-Login: https://403159396211.signin.aws.amazon.com/console
-Username: sngular.demo
-Password: sngularTest123
+Login: 
+Username:
+Password: 
 
-Client-key: AKIAJNWXFFMGDMWUIPHQ
-Client-Secret: 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
+Client-key: 
+Client-Secret: 
 
 
 ## References
